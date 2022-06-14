@@ -1,3 +1,4 @@
+# Convert existing format into “.gpkg
 ### 1)	Once QGIS is open, drag the file to QGIS workspace. 
 ![alt text](https://github.com/pgonzaleze/Working-with-a-geopackage-.gpkg-in-QGIS/blob/main/GPKG/figure_1.jpg)
 <br>
