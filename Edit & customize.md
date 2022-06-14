@@ -6,7 +6,8 @@
 ![alt text](https://github.com/pgonzaleze/Working-with-a-geopackage-.gpkg-in-QGIS/blob/main/GPKG/figure_6.jpg)
 <br>
 
-3)	A “temporary” layer (“Refactored” as default) is created (see the “Layers” panel on left), open the attribute table to confirm the name(s) changed. Then remove the original layer (right click on the original layer &rarr; “Remove layer”). Keep only the temporary layer.
+3)	A “temporary” layer (“Refactored” as default) is created (see the “Layers” panel on left), open the attribute table to confirm the name(s) changed. Then remove the original layer (right click on the original layer &rarr; “Remove layer”) and keep only the temporary layer.
+
 ![alt text](https://github.com/pgonzaleze/Working-with-a-geopackage-.gpkg-in-QGIS/blob/main/GPKG/figure_7.jpg)
 <br>
 
