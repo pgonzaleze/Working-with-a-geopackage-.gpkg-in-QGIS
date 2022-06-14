@@ -7,4 +7,4 @@ In this repository you will find a description of how to accomplish this task us
 
 * [Convert existing format into “.gpkg”](https://github.com/pgonzaleze/Working-with-a-geopackage-.gpkg-in-QGIS/blob/main/Convert%20format%20to%20%E2%80%9C.gpkg%E2%80%9D.md)
 
-* (Edit/customize the “.gpkg”)[https://github.com/pgonzaleze/Working-with-a-geopackage-.gpkg-in-QGIS/blob/main/Edit%20%26%20customize.md]
+* [Edit/customize the “.gpkg”](https://github.com/pgonzaleze/Working-with-a-geopackage-.gpkg-in-QGIS/blob/main/Edit%20%26%20customize.m)
