@@ -5,6 +5,6 @@ The spatial information of the watherseds is likely stored as a shapefile (.shp)
 <br>
 In this repository you will find a description of how to accomplish this task using the open-source geographic information system (GIS) software, QGIS.
 
-* Convert existing format into “.gpkg”
+* [Convert existing format into “.gpkg”](https://github.com/pgonzaleze/Working-with-a-geopackage-.gpkg-in-QGIS/blob/main/Convert%20format%20to%20%E2%80%9C.gpkg%E2%80%9D.md)
 
 * Edit/customize the “.gpkg”
