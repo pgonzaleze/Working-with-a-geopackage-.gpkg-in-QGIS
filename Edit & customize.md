@@ -4,7 +4,7 @@
 ![alt text](https://github.com/pgonzaleze/Working-with-a-geopackage-.gpkg-in-QGIS/blob/main/GPKG/figure_5.jpg)
 <br>
 
-### 2)	The “fid” column corresponds to the “HUC_ID” on the excel spreadsheet, as such you can change it to match names. To do that, on the top ribbon click on the “Toolbox” icon (wrench). In the processing tool window (that pops up on the left), locate the “Reactor fields” and then double click on the “Field name” to be changed (e.g., fid to HUC_ID).
+### 2)	The “fid” column corresponds to the “HUC_ID” on the excel spreadsheet, as such you can change it to match names. To do that, on the top ribbon click on the “Toolbox” icon (wrench). In the processing tool window (that pops up on the right), locate the “Reactor fields” and then double click on the “Field name” to be changed (e.g., fid to HUC_ID).
 ![alt text](https://github.com/pgonzaleze/Working-with-a-geopackage-.gpkg-in-QGIS/blob/main/GPKG/figure_6.jpg)
 <br>
 
