@@ -1,6 +1,6 @@
 # Edit/customize the “.gpkg”
 
-### 1)	Once the data is in a .gpkg format and are already loaded in QGIS, locate the layer on the “layers” panel and right click &rarr; ”Open Attribute Table”. A window with the table is displayed, and it shows all the information stored in the geopackage, e.g., name of the rivers, watershades, object identifier, etc.
+### 1)	Once the datafile is in a .gpkg format and is already loaded in QGIS, locate the layer on the “layers” panel and right click &rarr; ”Open Attribute Table”. A window with the table is displayed, and it shows all the information stored in the geopackage, e.g., name of the rivers, watershades, object identifier, etc.
 ![alt text](https://github.com/pgonzaleze/Working-with-a-geopackage-.gpkg-in-QGIS/blob/main/GPKG/figure_5.jpg)
 <br>
 
